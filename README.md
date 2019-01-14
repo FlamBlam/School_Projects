@@ -1,3 +1,3 @@
 # School_Projects
 
-For school. Nuff said.
+For school. Pretty explanatory.
